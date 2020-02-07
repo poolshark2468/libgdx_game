@@ -1,0 +1,8 @@
+1/23/2020
+
+Game Overview:
+something like Asteroids, with weapons?
+
+Notes:
+
+TODO: Update SpriteObj and SpaceShip so it displays
